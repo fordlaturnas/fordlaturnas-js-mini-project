@@ -1,2 +1,2 @@
 # My Compilation of JavaScript Mini Projects
-by Ford Laturnas
+By Ford Laturnas
